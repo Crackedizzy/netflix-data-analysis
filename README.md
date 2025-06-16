@@ -35,7 +35,9 @@ netflix-data-analysis/
 ├── data/
 
 │ └── netflix_titles.csv
+
 ├── netflix_eda_project.ipynb
+
 ├── README.md
 
 ---
