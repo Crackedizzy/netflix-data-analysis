@@ -31,7 +31,9 @@ This project performs an exploratory data analysis (EDA) on Netflix's Movies and
 ## 📁 Project Structure
 
 netflix-data-analysis/
+
 ├── data/
+
 │ └── netflix_titles.csv
 ├── netflix_eda_project.ipynb
 ├── README.md
