@@ -31,4 +31,4 @@ This project performs an exploratory data analysis (EDA) on Netflix's Movies and
 
 ---
 
-🧑‍💻 Made with ❤️ by [Israel](https://github.com/crackedizzy)
+🧑‍💻 Made by [Israel](https://github.com/crackedizzy)
